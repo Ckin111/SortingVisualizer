@@ -1,0 +1,35 @@
+.array-bar{
+    width: 20px;
+    background-color: aqua;
+    margin: 1px;
+    margin-top: 10px;
+}
+
+button{
+    background-color: greenyellow;
+    color: black;
+    padding: 11px 18px;
+    cursor: pointer;
+    border-radius: 15px;
+    margin: auto;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+#navbar {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    max-width: 500px;
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+h1{
+    text-align: center;
+    color:darkcyan;
+}
